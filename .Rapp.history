@@ -1,0 +1,2 @@
+load("/Users/uditsetia/CapstonePro/quad_words_top.rds")
+load("/Users/uditsetia/CapstonePro/bi_words_top.rds")
